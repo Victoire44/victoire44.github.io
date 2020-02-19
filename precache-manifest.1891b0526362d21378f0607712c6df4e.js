@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc4eb36043444f5bb134a8f8dffb91ac",
+    "revision": "771b9abf107265b4c5b923ced4f48642",
     "url": "/index.html"
   },
   {
-    "revision": "6f660ea885ae05137552",
+    "revision": "8a4bc4e3fb7e3e847633",
     "url": "/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "4a15083cb42887bd6d60",
-    "url": "/static/js/2.3dc853cc.chunk.js"
+    "revision": "ff98120534ddd48625c3",
+    "url": "/static/js/2.dd71914e.chunk.js"
   },
   {
     "revision": "b51e62edbcf7a9c4f4ad13f506021d3e",
-    "url": "/static/js/2.3dc853cc.chunk.js.LICENSE"
+    "url": "/static/js/2.dd71914e.chunk.js.LICENSE"
   },
   {
-    "revision": "6f660ea885ae05137552",
-    "url": "/static/js/main.f37536de.chunk.js"
+    "revision": "8a4bc4e3fb7e3e847633",
+    "url": "/static/js/main.48c47fdc.chunk.js"
   },
   {
     "revision": "0d46f7656c748826843c",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e57d52c307a9e06b40d0438125e981a5",
     "url": "/static/media/bamazon.e57d52c3.png"
+  },
+  {
+    "revision": "42f722eeaa9d1129914563e4787b1e44",
+    "url": "/static/media/blog-clem.42f722ee.png"
   },
   {
     "revision": "4195cf989fac0128a89669f40a1e3496",
@@ -40,16 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/campdad.eabade9b.png"
   },
   {
-    "revision": "ea08beab1db655d4cd6abbdd3d81ae4f",
-    "url": "/static/media/campmom.ea08beab.png"
-  },
-  {
     "revision": "9fe7584b6d29bec74a66024829929697",
     "url": "/static/media/css.9fe7584b.png"
   },
   {
     "revision": "6692bcfb95b742e16e978a956764c795",
     "url": "/static/media/favicon.6692bcfb.svg"
+  },
+  {
+    "revision": "18cc3ef65f80c110fcda3ee794a68b5f",
+    "url": "/static/media/firmin-girard.18cc3ef6.png"
   },
   {
     "revision": "06c8ed797450fb00d7053105a064028a",
@@ -70,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f3c040f269f349736c31911f7922e0a6",
     "url": "/static/media/js.f3c040f2.png"
+  },
+  {
+    "revision": "0c6674f201a93eb592c424b892e881a3",
+    "url": "/static/media/laminar.0c6674f2.png"
   },
   {
     "revision": "58e2904074ff060f9a9c3e2da87cdd92",
